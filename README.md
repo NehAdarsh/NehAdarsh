@@ -1,7 +1,7 @@
 ### Introducing Myself
-![NehaAdarsh_Cover_Photo](https://github.com/NehAdarsh/NehAdarsh/assets/111151093/812acaa9-5558-4a16-8219-0a01881c3b82)
+![NehaAdarsh_Cover_Photo](https://github.com/NehAdarsh/NehAdarsh/assets/111151093/6e3a924f-a22e-49d1-8569-ce87bd2f9a2c)
 
-## Hello, I'm Neha. A Data Analyst with a strong analytical mindset and 5+ years of experience with a Masters Degree in Data Analytics with Statistical Modeling (Northeastern University), I specialize in extracting meaningful patterns from complex datasets. My proficiency spans data cleaning, exploratory data analysis, data visualization, statistical modeling, reporting, query optimization, and database design.
+Hello, I'm Neha. A Data Analyst with a strong analytical mindset and 5+ years of experience with a Masters Degree in Data Analytics with Statistical Modeling (Northeastern University), I specialize in extracting meaningful patterns from complex datasets. My proficiency spans data cleaning, exploratory data analysis, data visualization, statistical modeling, reporting, query optimization, and database design.
 
 <!--
 **NehAdarsh/NehAdarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
