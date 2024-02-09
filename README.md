@@ -22,6 +22,7 @@ Welcome to my [Portfolio](https://github.com/NehAdarsh/Portfolio)
 
 ## 😊 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/nehaadarsh/)
+- [Github](https://github.com/NehAdarsh)
 
 
 <!--
