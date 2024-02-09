@@ -9,7 +9,7 @@ Hello, I'm Neha. A Data Analyst with a strong analytical mindset and 5+ years of
 - Data analysis and reporting using Google Sheets and Excel
 
 ## 👩🏻‍💻 Projects
-Welcome to my portfolio.
+Welcome to my [Portfolio](https://github.com/NehAdarsh/Portfolio)
 
 ## 🛠️ Tools
 - Languages: SQL, Python, R, C++
