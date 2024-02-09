@@ -21,8 +21,7 @@ Welcome to my portfolio.
 - See here
 
 ## 😊 Connect With Me
-- LinkedIn
-
+- [LinkedIn](https://www.linkedin.com/in/nehaadarsh/)
 
 
 <!--
