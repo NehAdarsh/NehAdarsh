@@ -24,6 +24,9 @@ Hello, I'm Neha. A Data Analyst with a strong analytical mindset and 5+ years of
 ## 😊 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/nehaadarsh/)
 - [Github](https://github.com/NehAdarsh)
+- [Medium](https://medium.com/@nehaadarsh92)
+- Email: nehaa141992@gmail.com
+  
 
 
 <!--
