@@ -11,6 +11,7 @@ Hello, I'm Neha. A Data Analyst with a strong analytical mindset and 5+ years of
 ## 👩🏻‍💻 Projects
 - Here is a link to my [portfolio](https://github.com/NehAdarsh/Portfolio)
 - Here is a link to all my [Data-Projects](https://github.com/NehAdarsh/Data-Projects-SQL-Python-Tableau-Excel)
+- Here is a link to my [Tableau Public profile](https://public.tableau.com/app/profile/neha.adarsh/vizzes)
 
 ## 🛠️ Tools
 - Languages: SQL, Python, R, C++
