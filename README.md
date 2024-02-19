@@ -20,7 +20,7 @@ Hello, I'm Neha. A Data Analyst with a strong analytical mindset and 5+ years of
 - Machine Learning: Decision Trees, Random Forest, XGBoost, Clustering Algorithm, SVM, Logistic Regression, NLP
 
 ## 📜 Resume
-- [See here](https://drive.google.com/file/d/1Ua7dDMqTVq5x5udMn6W0rdxo3_w02pEf/view?usp=sharing)
+- [See here](https://drive.google.com/file/d/1xlOepQvv61TCgh1xdJsSHkCStAQAwvxZ/view?usp=sharing)
 
 ## 😊 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/nehaadarsh/)
